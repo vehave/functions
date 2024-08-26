@@ -21,9 +21,9 @@ Players can practice with seven different types of functions:
 
 ## Game Objectives
 
-    Develop players' ability to recognize and connect functions with their graphs.
-    Provide an interactive learning environment that makes mathematics enjoyable.
-    Enhance problem-solving skills and memory.
+- Develop players' ability to recognize and connect functions with their graphs.
+- Provide an interactive learning environment that makes mathematics enjoyable.
+- Enhance problem-solving skills and memory.
 
 ## Instructions
 
