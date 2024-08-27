@@ -52,3 +52,7 @@ If you have any questions or feedback about the game, feel free to contact the d
 <img src="Functions-&-Graphs-6.jpg" alt="Game view">
 
 <img src="Functions-&-Graphs-7.jpg" alt="Game view">
+
+## Also available for Android devices
+
+<a href="https://play.google.com/store/apps/details?id=com.vehave.functions" target="_blank"><img src="PlayStore.jpg" alt="Get it on Google Play"></a>
